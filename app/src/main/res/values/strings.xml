@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BiometricsAndroidExample</string>
+    <string name="biometric_dialog">Biometric Dialog</string>
+    <string name="biometric_activity">Biometric Activity</string>
+    <string name="result">Result</string>
+    <string name="biometric_error">Authentication error: %1$s</string>
+    <string name="biometric_success">Authentication succeeded!</string>
+    <string name="biometric_failed">Authentication Failed!</string>
+</resources>
